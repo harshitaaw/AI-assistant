@@ -1,5 +1,4 @@
-# AI-assistant
-# 🤖 Alex –  AI Voice Assistant
+# 🤖 Alex – Your Cute AI Voice Assistant
 
 ## Description
 Alex is a smart voice assistant built in Python using `speech_recognition`, `pyttsx3`, `tkinter`, and more.  
@@ -20,24 +19,3 @@ It listens, responds, opens websites, searches Wikipedia, manages to-do lists, a
    python -m venv venv
    source venv/bin/activate  # (Linux/Mac)
    .\venv\Scripts\activate   # (Windows)
-## Dependencies
-
-speechrecognition
-
-pyttsx3
-
-wikipedia
-
-Pillow
-
-## Files
-
-alex_assistant.py → Main code
-
-robot.gif.gif → Animated assistant GIF
-
-todo.txt → To-do list storage (auto-generated)
-
-setup_instructions.txt → Setup guide for installation
-
-## ✨ Made with 💕 by Harshita’s Masterpiece AI Assistant
